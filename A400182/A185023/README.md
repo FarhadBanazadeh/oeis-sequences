@@ -7,6 +7,7 @@
 **OEIS:** https://oeis.org/A185023
 
 **Research article:** https://doi.org/10.5281/zenodo.22685074
+
 **Research article:** https://doi.org/10.5281/zenodo.22195652
 
 ## Sequence Definition
