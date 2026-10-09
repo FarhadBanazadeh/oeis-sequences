@@ -112,15 +112,23 @@ https://oeis.org/A185023
 
    https://oeis.org/A185023
 
-2. Farhad Banazadeh, *Extended Computational Verification of the Ternary (4k +/- 1)/3 Collatz-Type Map up to 10^11: A 128-Bit Exhaustive Certification*, Zenodo, 2026.
+2. A Ternary (4k±1)/3 Collatz-Type Map: Computational Verification up to 10^9 , Zenodo, 2026.
+
+   https://zenodo.org/doi/10.5281/zenodo.22195652
+
+3. A Ternary (4k±1)/3 Collatz-Type Map: Exact 3-Adic Symbolic Dynamics, Density-One First Descent, Algebraic Cycle Analysis, and Exhaustive Verification up to 10^11 , Zenodo, 2026.
+
+   https://zenodo.org/doi/10.5281/zenodo.22964212
+
+4. Extended Computational Verification of the Ternary (4k +/- 1)/3 Collatz-Type Map up to 10^11: A 128-Bit Exhaustive Certification*, Zenodo, 2026.
 
    https://doi.org/10.5281/zenodo.22685074
 
-3. OEIS A397114, historical revision record, 2026.
+5. OEIS A397114, historical revision record, 2026.
 
    https://oeis.org/history?seq=A397114
 
-4. OEIS A185023, official sequence data.
+6. OEIS A185023, official sequence data.
 
    https://oeis.org/A185023/b185023.txt
 
